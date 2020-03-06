@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "#############---------get current user--------########"
 
-id -F
+echo $USER_VARIABLE
